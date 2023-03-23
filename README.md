@@ -9,7 +9,7 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![wakatime](https://wakatime.com/badge/user/d37401d6-1566-41ea-b7ab-8cc7d2c9f55b/project/931d730c-4999-4084-84d0-9639c865bcce.svg?style=for-the-badge&logo=appveyor)](https://wakatime.com/badge/user/d37401d6-1566-41ea-b7ab-8cc7d2c9f55b/project/931d730c-4999-4084-84d0-9639c865bcce.svg?style=for-the-badge&logo=appveyor)
-[![HugoBuildAndDeploy](https://img.shields.io/github/workflow/status/Fedodo/{{RepositoryName}}/PipelineName?style=for-the-badge)](https://github.com/Fedodo/{{RepositoryName}}/actions/workflows/PipelineName.yaml)  
+[![HugoBuildAndDeploy](https://img.shields.io/github/actions/workflow/status/Fedodo/{{RepositoryName}}/Build.yaml?style=for-the-badge)](https://github.com/Fedodo/{{RepositoryName}}/actions/workflows/Build.yaml)
 
 <!-- PROJECT LOGO -->
 <br />
